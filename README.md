@@ -11,6 +11,6 @@
     ![Symbol Layer](Images/Banks_map.png)
 
   * A map that includes both the poverty `heatmap_layer` and the bank `symbol_layer`.
-    ![Combined Map](Images/final_map.png)
+    ![Combined Map](Images/Final_map.png)
 
 ### 
